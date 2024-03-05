@@ -1,7 +1,6 @@
 Tran Thu Trang - Hệ thống thông tin
-# 💫 About Me:
-Dự án về quản lý các khu ký túc xá tại trường đại học cần thơ
-
+# 💫 About Project:
+QUẢN LÝ CÁC KHU KTX TẠI TRƯỜNG ĐẠI HỌC CẦN THƠ
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trangtrang-013539&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trangtrang-013539&theme=dark&hide_border=false)<br/>
