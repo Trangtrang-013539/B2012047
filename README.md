@@ -1,1 +1,1 @@
-# B2012047
+Tran Thu Trang - Hệ thống thông tin
