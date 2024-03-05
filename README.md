@@ -1,5 +1,5 @@
 Tran Thu Trang - Hệ thống thông tin
-# 💫 About Project:
+# 💫 🔭 About Project:
 QUẢN LÝ CÁC KHU KTX TẠI TRƯỜNG ĐẠI HỌC CẦN THƠ
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trangtrang-013539&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
