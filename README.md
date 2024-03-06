@@ -8,6 +8,18 @@ QUẢN LÝ CÁC KHU KTX TẠI TRƯỜNG ĐẠI HỌC CẦN THƠ
   <img src="https://contrib.rocks/image?repo=mfts/papermark" />
 </a>
 
+pip install foobar
+
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
