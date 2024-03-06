@@ -8,52 +8,18 @@ QUẢN LÝ CÁC KHU KTX TẠI TRƯỜNG ĐẠI HỌC CẦN THƠ
   <img src="https://contrib.rocks/image?repo=mfts/papermark" />
 </a>
 
-pip install foobar
 
-import foobar
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-# returns 'words'
-foobar.pluralize('word')
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# returns 'geese'
-foobar.pluralize('goose')
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=trangtrang-013539&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-# Foobar
+---
+[![](https://visitcount.itsvg.in/api?id=trangtrang-013539&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Foobar is a Python library for dealing with word pluralization.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
