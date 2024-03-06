@@ -8,12 +8,40 @@ QUẢN LÝ CÁC KHU KTX TẠI TRƯỜNG ĐẠI HỌC CẦN THƠ
   <img src="https://contrib.rocks/image?repo=mfts/papermark" />
 </a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trangtrang-013539&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trangtrang-013539&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trangtrang-013539&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Foobar
 
----
-[![](https://visitcount.itsvg.in/api?id=trangtrang-013539&icon=0&color=0)](https://visitcount.itsvg.in)
+Foobar is a Python library for dealing with word pluralization.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
